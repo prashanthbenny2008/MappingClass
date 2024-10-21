@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingSystem", "MappingSys
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingSystem.ConsoleApp", "MappingSystem.ConsoleApp\MappingSystem.ConsoleApp.csproj", "{1446627A-1A04-4816-9E79-D62672442D61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingSystem.Tests", "MappingSystem.Tests\MappingSystem.Tests.csproj", "{2ED1609E-DB33-49D1-BF62-4FB813618A3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1446627A-1A04-4816-9E79-D62672442D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1446627A-1A04-4816-9E79-D62672442D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1446627A-1A04-4816-9E79-D62672442D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ED1609E-DB33-49D1-BF62-4FB813618A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ED1609E-DB33-49D1-BF62-4FB813618A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ED1609E-DB33-49D1-BF62-4FB813618A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ED1609E-DB33-49D1-BF62-4FB813618A3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

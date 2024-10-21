@@ -1,0 +1,73 @@
+# Build results
+bin/
+obj/
+
+# Rider and VSCode specific files
+.idea/
+.vscode/
+
+# Visual Studio specific files
+.vs/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.userprefs
+
+# Auto-generated files
+Generated_Code/
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Local history for JetBrains IDEs (like Rider)
+.idea/
+
+# Visual Studio working folder
+.vs/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if you have NuGet.exe installed globally on your computer
+# !packages/build/
+
+# Dotnet Build files
+project.lock.json
+project.fragment.lock.json
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# JetBrains Rider
+.idea/
+
+# Mac system files
+.DS_Store
