@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingSystem", "MappingSystem\MappingSystem.csproj", "{2B60EF1B-8F34-4338-87AD-EC9ED7DB132C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MappingSystem.ConsoleApp", "MappingSystem.ConsoleApp\MappingSystem.ConsoleApp.csproj", "{1446627A-1A04-4816-9E79-D62672442D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B60EF1B-8F34-4338-87AD-EC9ED7DB132C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B60EF1B-8F34-4338-87AD-EC9ED7DB132C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B60EF1B-8F34-4338-87AD-EC9ED7DB132C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B60EF1B-8F34-4338-87AD-EC9ED7DB132C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1446627A-1A04-4816-9E79-D62672442D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1446627A-1A04-4816-9E79-D62672442D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1446627A-1A04-4816-9E79-D62672442D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1446627A-1A04-4816-9E79-D62672442D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FBA52DF-8F50-47AD-8A9F-1D1138D37A9F}
+	EndGlobalSection
+EndGlobal
